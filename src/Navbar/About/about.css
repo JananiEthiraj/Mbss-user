@@ -1,0 +1,29 @@
+.about {
+  margin-top: 100px;
+}
+.abtTitle {
+  /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+  font-size: xx-large;
+  color: #272453;
+}
+.hfour {
+  font-size: xx-large;
+  color: #272453;
+  text-decoration: underline;
+}
+.para {
+  text-align: center;
+  color: #272453;
+  font-family:  sans-serif;
+  margin :0px 40px 0px 40px;
+}
+.hfive {
+  font-size: x-large;
+  color: #272453;
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+  color:  #272453;
+  font-weight: bold;
+}

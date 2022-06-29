@@ -1,0 +1,296 @@
+{
+  "Automotive": [
+    {
+      "id": 1,
+      "modal": "EXIDE EPIQ (4 Wheeler)",
+      "warranty": "77 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/epiq-new2-small.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 2,
+      "modal": "EXIDE MATRIX (4 Wheeler)",
+      "warranty": "66 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-matrix-new2-small.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 3,
+      "modal": "EXIDE MILEAGE (4 Wheeler)",
+      "warranty": "55 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-mileage-new2-small.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 4,
+      "modal": "EXIDE EEZY (4 Wheeler)",
+      "warranty": "44 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-eezy-new2-small.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 5,
+      "modal": "EXIDE GOLD (4 Wheeler)",
+      "warranty": "18 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-gold-new2-small.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 6,
+      "modal": "EXIDE XPLORE (2 wheeler)",
+      "warranty": "48 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/xplore-small-new5.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 7,
+      "modal": "EXIDE BIKERZ VRLA (2 wheeler)",
+      "warranty": "36 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/bikerz-new5.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 8,
+      "modal": "Amaron Flo 65AH Battery (2 wheeler)",
+      "warranty": "66 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/484366-78-1.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 9,
+      "modal": "Exide Xplore (2 wheeler)",
+      "warranty": "48 Month Warranty",
+      "image": "https://www.exidecare.com/images/exide-xplore.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 10,
+      "modal": "Exide Bikerz VRLA (2 wheeler)",
+      "warranty": "54 Month Warranty",
+      "image": "https://www.exidecare.com/images/exide-bikerz.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 11,
+      "modal": "EXIDE XPLORE(XLTZ9)(2 wheeler)",
+      "warranty": "48 Month Warranty",
+      "image": "https://www.exidecare.com/assets/ProductImages/XLTZ91.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 12,
+      "modal": "SF Sonic MK 1440 - TZ5 (2 wheeler)",
+      "warranty": "48 Month Warranty",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/TC/ZU/SK/46830599/mk-1440-tz5-2-500x500.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 13,
+      "modal": "Livfast Duro Ride Three Wheeler Battery ",
+      "warranty": "18 Month Warranty",
+      "image": "http://5.imimg.com/data5/SELLER/Default/2022/5/BV/IQ/ZK/137141921/liv-fast-duro-ride-battery-500x500.png",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 14,
+      "modal": "Exide EK022 Three Wheeler Battery ",
+      "warranty": "18 Month Warranty",
+      "image": "http://5.imimg.com/data5/SELLER/Default/2022/5/AM/CU/LA/76877653/exide-eko-002-three-wheeler-battery-500x500.jpg",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    },
+    {
+      "id": 15,
+      "modal": "Sf Sonic 2 Wheeler Battery- Sq1440 Tz5l-b",
+      "warranty": "24 Month Warranty",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/11/GV/XW/WH/110150406/sf-sonic-2-wheeler-battery-500x500.png",
+      "description": "An automotive battery is a rechargeable battery that is used to start a motor vehicle. Its main purpose is to provide an electric current to the electric-powered starting motor, which in turn starts the chemically-powered internal combustion engine that actually propels the vehicle. Once the engine is running, power for the car's electrical systems is still supplied by the battery, with the alternator charging the battery as demands increase or decrease."
+    }
+  ],
+
+  "Inverter": [
+    {
+      "id": 1,
+      "modal": "EXIDE INVATUBULAR",
+      "warranty": "66 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-invatubular-small-new7.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 2,
+      "modal": "EXIDE INVAMASTER ",
+      "warranty": "60 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-invamaster-small-new7.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 3,
+      "modal": "EXIDE TUBEMASTER    ",
+      "warranty": "54 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-tubemaster-small-pic6.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 4,
+      "modal": "EXIDE INVA PLUS TUBULAR",
+      "warranty": "42 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-invaplus-tubular-small-new7.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 5,
+      "modal": "EXIDE INVA KING    ",
+      "warranty": "42 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-inva-king-small-new6.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 6,
+      "modal": "EXIDE INSTA BRITE    ",
+      "warranty": "36 Month Warranty",
+      "image": "https://docs.exideindustries.com/images/exide-insta-brite-small-new6.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 7,
+      "modal": "Luminous EcoVolt 1050 Inverter",
+      "warranty": "48 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/503232-60-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 8,
+      "modal": "Luminous Inverterlast 18048 150AH Battery",
+      "warranty": "54 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/207532-59-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 9,
+      "modal": "Luminous RC25000 200Ah Battery",
+      "warranty": "36 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/540049-7-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 10,
+      "modal": "Luminous EcoVolt 1050 Inverter",
+      "warranty": "66 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-300,c-at_max/503232-60-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 11,
+      "modal": "Luminous IL 1830FP 150AH Battery",
+      "warranty": "56 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/535425-72-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 12,
+      "modal": "Luminous Eco Volt 1050 Home UPS",
+      "warranty": "44 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/524029-61-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 13,
+      "modal": "Luminous Solar LPTT12120H 120Ah Tall Tubular Battery",
+      "warranty": "48 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/542691-84-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 14,
+      "modal": "Amaron CR150TT 150 Ah Tall Tabular Battery",
+      "warranty": "18 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/504371-1-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 15,
+      "modal": "Amaron Current AAM-CR-CRTT165 165Ah ",
+      "warranty": "66 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/510318-55-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 16,
+      "modal": "MTEK POWER Microtek Battery EB1900, 160ah",
+      "warranty": "36 Month Warranty",
+      "image": "https://4.imimg.com/data4/VQ/XW/GLADMIN-178991/microtek-inverter-batteries-250x250.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 17,
+      "modal": "MICROTEK 160 AH JUMBO TUBULAR BATTERY",
+      "warranty": "48 Month Warranty",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/8/OZ/RQ/ZX/5900612/imtemp1596712903641-250x250.png",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 18,
+      "modal": "Exide Sf-Sonic 1080 150AH Battery",
+      "warranty": "55 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-370,h-330,c-at_max/467700-94-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 19,
+      "modal": "Exide SF Sonic Hups (Inverter)",
+      "warranty": "66 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-370,h-330,c-at_max/551541-56-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    },
+    {
+      "id": 20,
+      "modal": "SF Sonic Stan Master",
+      "warranty": "56 Month Warranty",
+      "image": "https://assets.mspimages.in/c/tr:w-370,h-330,c-at_max/228575-43-1.jpg",
+      "description": " Guarantee longer life and higher power output Higher backups, Minimal plate failures Ability to withstand long and frequent power outages Ability to recover from deep discharge Require lesser topping-up frequency Have better thermal management."
+    }
+  ],
+
+  "Solar": [
+    {
+      "id": 1,
+      "modal": "Exide Solar 150AH Battery 6LMS150",
+      "warranty": "36 Month Warranty",
+      "image": "https://www.mypowerkart.com/pub/media/catalog/product/cache/ae98f194ee1f13adab583d0d10c81111/6/l/6lms150-exide-solar-battery-500x500.jpg",
+      "description": " Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency. "
+    },
+    {
+      "id": 2,
+      "modal": "Zunsolar power plus zr 150ah 12 volt Solar Battery ",
+      "warranty": "60 Month Warranty",
+      "image": "https://d1vfpdpyv21g5i.cloudfront.net/zunpulse/products_v5/zunvolt/ZV222005/ZV222005_01.jpg",
+      "description": " Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency."
+    },
+    {
+      "id": 3,
+      "modal": "Luminous LPTT12150H 150Ah Solar Battery    ",
+      "warranty": "60 Month Warranty",
+      "image": "https://m.media-amazon.com/images/I/81oLPt1n7rL._SX679_.jpg",
+      "description": "Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency."
+    },
+    {
+      "id": 4,
+      "modal": "Livguard Solar 150AH Battery ",
+      "warranty": "60 Month Warranty",
+      "image": "https://www.mypowerkart.com/pub/media/catalog/product/cache/ae98f194ee1f13adab583d0d10c81111/l/i/livguard_solar_150ah_battery_ls_15060ptt.png",
+      "description": " Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency."
+    },
+    {
+      "id": 5,
+      "modal": "Tesla Tputz4 Lithium Solar Battery",
+      "warranty": "42 Month Warranty",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUIv-iAB-zGOflnuyM0vXdxgG6EgelGzmcMjF-GhCwg_QSyJtTH9Dg1nUf-T2fl-D3VBuZUhE7FvXNuguCLX0ZkX7HyU13-1nSq8ilTxsCsm01tdB9GBCbHPQ&usqp=CAE",
+      "description": "Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency."
+    },
+    {
+      "id": 6,
+      "modal": "Luminous LPT 1260H 60 Ah 12 V Solar Battery    ",
+      "warranty": "36 Month Warranty",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtZpeg_Lkhw_c81s-M14LasXsy-kPzf8lcbSwGSvBYYw9XWghuJBhpSLkikh3Rf3NJ29fQaHuzu7Zq_nXCyllcUMG-GbH5R8e0xRrxOIyfMXKLYY3TgNzk&usqp=CAE",
+      "description": "Solar Hybrid Inverter UPS for Solar Off-Grid Applications used for Home Equipments, Office rooftop solution, Residential & Commercial Applications, power solution systems for Renewable PV Energy.The combination of low antimony alloy in the positive spine and ceramic vent plugs which reduces topping up frequency."
+    }]
+}

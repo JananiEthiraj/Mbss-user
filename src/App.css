@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+.App {
+  text-align: center;
+}
+body {
+  height: 100%;
+
+  background-color: #c7dada;
+}
+.icon {
+  padding-left: 20px;
+}
+nav {
+  box-shadow: 0 0 5px grey;
+  position: fixed;
+  box-sizing: border-box;
+  display: flex;
+  height: 80px;
+  left: 0;
+  padding: 0 12px;
+  top: 0;
+  width: 100%;
+  background: #534f8a;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.call {
+  font-size: 25px;
+}
+
+.navlist {
+  list-style: none;
+  float: left;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 30px;
+  gap: 80px;
+}
+li {
+  color: #c7dada;
+}
+h1 {
+  color: #534f8a;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  color: rgb(45, 51, 71);
+}
+
+.left {
+  width: 50%;
+  display: flex;
+
+  align-items: center;
+}
+.home,
+h2 {
+  font-family: "Bangers", cursive;
+  font-size: xxx-large;
+  font-weight: bolder;
+}
+.homeP {
+  font-size: x-large;
+  font-family: "Lobster", cursive;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+  margin-left: 25%;
+  margin-top: 3%;
+  height: auto;
+}
+
+.enquire {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 25%;
+}
+.enquires {
+  display: flex;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 45px;
+  background-color: #c7dada;
+}
+.styles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.products {
+  margin-top: 100px;
+}
+.heading {
+  color: rgb(45, 51, 71);
+}
+.cardContent {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.button {
+  border: none;
+  background-color: white;
+  color: blue;
+}
+.Read {
+  margin-top: 80px;
+}
