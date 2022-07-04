@@ -90,7 +90,7 @@ export default function About() {
             <p className="para">
               Murugan Battery Company -{" "}
               <a href="https://www.google.com/maps/dir//Murugan+Battery+Company,+New+No:+7,+Old+No:+AF-53,+11th+Main+Rd,+opp.+to+Sundaram+Hospital,+Anna+Nagar,+Chennai,+Tamil+Nadu+600040/@13.0834939,80.2031472,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a525da00fffffff:0xef179e2a0338d5fd!2m2!1d80.2053359!2d13.0834939">
-                Prambur
+                Perambur
               </a>
             </p>
             <br />

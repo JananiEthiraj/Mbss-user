@@ -20,7 +20,12 @@ export default function Enquire() {
     },
     validationSchema: yup.object({
       uname: yup.string().required(),
-      number: yup.string().required("requird").min(9, "only for this"),
+      number: yup.number()
+      .typeError("That doesn't look like a phone number")
+      .positive("A phone number can't start with a minus")
+      .integer("A phone number can't include a decimal point")
+      .min(9)
+      .required('A phone number is required'),
       email: yup.string().required("required").email(),
       location: yup.string(),
       query: yup.string().required(" required"),
